@@ -498,7 +498,7 @@ footer span{color:var(--accent);font-weight:800}
   .search-box{height:44px}
   .nearest-card,.empty-card,.tip-card{margin-bottom:14px;padding:12px 14px}
   .route-card{margin-bottom:16px}
-  .map-help{left:8px;bottom:8px;top:auto}
+  .map-help{left:8px;bottom:10px;top:auto}
 }
 @media(pointer:coarse){
   .results button{min-height:46px}
