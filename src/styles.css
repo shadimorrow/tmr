@@ -431,7 +431,7 @@ footer span{color:var(--accent);font-weight:800}
   .map-title span{font-size:9.5px}
   .map-title strong{font-size:13px}
   .map-toggle{left:8px;top:8px;font-size:11.5px;padding:6px 10px}
-  .map-help{max-width:min(58vw,210px)}
+  .map-help{max-width:min(58vw,210px); font-size:11px}
   .panel{padding:2px 0 22px}
   .panel h1{font-size:clamp(28px,9vw,34px)}
   .intro{margin:10px 0 22px}
